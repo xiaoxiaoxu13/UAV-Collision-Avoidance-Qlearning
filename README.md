@@ -27,7 +27,7 @@ pip install numpy matplotlib
 ├── training_curves.png # 训练曲线图
 ├── path_visualization.png # 路径可视化图
 └── README.md           # 项目说明
- `
+ ```
 
 ## 运行方法
 
