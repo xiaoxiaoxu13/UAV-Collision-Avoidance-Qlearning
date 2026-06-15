@@ -16,6 +16,7 @@ pip install numpy matplotlib
 
 ## 文件结构
 
+```text
 无人机项目/
 ├── environment.py      # 环境定义（地图、障碍物、起点终点）
 ├── agent.py            # Q-learning智能体
